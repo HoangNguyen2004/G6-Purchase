@@ -1,1 +1,1 @@
-# Odoo-purchasing
+# GitHub Quản Lý Hoạt Động Nhóm
